@@ -21,7 +21,7 @@ return (
                 />
             </div>
     <p className='text-gray-400 mt-4'>
-    © 2024 <b>Shrisay Interior</b>, a proud sub-brand of <b>PJ Marketing</b>. Crafting timeless interiors with elegance and expertise. Your dream spaces, designed with heart.
+    © 2024 <b>Shrisay Interior</b>, owned and marketed by <b>PJ Marketing</b>. Crafting timeless interiors with elegance and expertise. Your dream spaces, designed with heart.
     </p>
 </div>
 
@@ -37,6 +37,7 @@ return (
             <div className='w-full md:w-1/3'>
                     <h3 className='text-white text-lg font-bold mb-4'>Our Contact Info</h3>
                     <p className='text-gray-400 max-w-80'>Owner: Mrs. Kabita Dey</p>
+                    <p className='text-gray-400 max-w-80'>Marketing Mngr: Mr. Jayanta Dey</p>
                     <p className='text-gray-400 max-w-80'>Ph No: +91 90383 10262</p>
                     <p className='text-gray-400 mb-4 max-w-80'>Email Address: <a href="mailto:shrisayinterio@gmail.com" className='hover:text-white'>shrisayinterio@gmail.com</a></p>
                     {/* <div className='flex gap-2'>
